@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cdv</string>
+    <string name="edittext_estatico">EditText estático</string>
+</resources>
